@@ -1,0 +1,1 @@
+## Serverless application with Fauna DB and Gatsby
